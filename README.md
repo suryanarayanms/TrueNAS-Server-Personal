@@ -54,7 +54,7 @@ A self-hosted NAS solution using TrueNAS SCALE for centralized file storage, sec
 
 1. Connect NAS/PC to your router using an **Ethernet cable**.
 2. On boot, a **local IP address** will appear (e.g., `192.168.0.102`).
-3. Open a browser on a device in the same network 鈫� visit the IP.
+3. Open a browser on a device in the same network. visit the IP.
 4. Login:
    - **Username**: `admin`
    - **Password**: `admin` (or the one set during install)
@@ -74,7 +74,7 @@ A self-hosted NAS solution using TrueNAS SCALE for centralized file storage, sec
 
 ### Create Dataset
 
-1. Click your pool name 鈫� **Add Dataset**
+1. Click your pool name **Add Dataset**
 2. Name it (e.g., `Media`, `Documents`)
 3. Set options (permissions, share type)
 4. Click **Save**
